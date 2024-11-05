@@ -1,0 +1,2 @@
+ID,Name,Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope," ""HeartDisease",HeartDisease
+2038,Aryan Gupta,22,M,NAP,118.5141,120.34567,0.42334,ST,93.46778,N,2.35556,Flat,,0.0
